@@ -1,0 +1,58 @@
+﻿@model IEnumerable<PFMO.Entities.Pinboard>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-sm-4">
+        <h2>Pin Board</h2>
+        <ol class="breadcrumb">
+            <li>
+                <a href="#">Home</a>
+            </li>
+            <li>
+                <a href="#">Dashboard</a>
+            </li>
+            <li>
+                <a href="#">Pinboard</a>
+            </li>
+            <li class="active">
+                <strong>@Html.ActionLink("List", "Index")</strong>
+            </li>
+        </ol>
+    </div>
+</div>
+
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="ibox float-e-margins">
+            <div class="ibox-title">
+                <h5>List of Notes</h5>
+                <div class="ibox-tools">
+                    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary btn-xs" })
+                </div>
+            </div>
+        </div>
+            <ul class="notes">
+                @foreach (var item in Model)
+               {
+                    <li>
+                        <div>
+                            <small>@Html.DisplayFor(modelItem => item.PinboardDate)</small>
+                            <h4>@Html.DisplayFor(modelItem => item.PinboardName)</h4>
+                            <p>@Html.DisplayFor(modelItem => item.PinboardContent)</p>
+                            @Html.ActionLink(" ", "Delete", new { id = item.PinboardID }, new { @class = "fa fa-trash-o" })
+                        </div>
+                    </li>
+                }
+            </ul>
+     </div>
+</div>
+
+
+
+
+
+

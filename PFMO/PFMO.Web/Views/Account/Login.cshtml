@@ -1,0 +1,95 @@
+﻿@using PFMO.Web.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Login";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Icon -->
+    <link rel="icon" href="~/Content/favicon.png">
+    <title>PFMO Management | Login</title>
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
+
+    <link href="~/Content/animate.css" rel="stylesheet">
+    <link href="~/Content/style.css" rel="stylesheet">
+
+</head>
+
+<body class="gray-bg">
+
+    <div class="middle-box text-center loginscreen  animated flip">
+        <div>
+
+            <section id="loginForm">
+                @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                    @Html.AntiForgeryToken()
+                    <div>
+                        <h1 align="center" class="logo-name"><a href="@Url.Action("Index", "land")"><img src="~/Content/favicon.png" width="300" height="300"/></a></h1>
+                    </div>
+                    <h3>Physical Facilities Management Office</h3>
+                    <p>
+                        Management Information System
+                    </p>
+                    <p>Log In. Start your Session.</p>
+                    <form class="m-t" role="form" action="#">
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        <div class="form-group">
+                            <div>
+                                @Html.TextBoxFor(m => m.Email, new { @type = "email", @class = "form-control", @placeholder = "Email", @required = "" })
+                                @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div>
+                                @Html.PasswordFor(m => m.Password, new { @type = "password", @class = "form-control", @placeholder = "Password", @required = "" })
+                                @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div>
+                                <input type="submit" value="Log In" class="btn btn-primary block full-width m-b" />
+                            </div>
+                        </div>
+
+
+                        <a href="@Url.Action("Forgot your password?", "ForgotPassword")"><small>Forgot password?</small></a>
+                        <p class="text-muted text-center"><small>Do not have an account?</small></p>
+                        <a class="btn btn-sm btn-white btn-block" href="@Url.Action("Register", "Account")">Create an account</a>
+
+                        @* Enable this once you have account confirmation enabled for password reset functionality
+                            <p>
+                                @Html.ActionLink("Forgot your password?", "ForgotPassword")
+                            </p>*@
+
+                    </form>
+                    <p class="m-t"> <small>Pamantasan ng Lungsod ng Maynila &copy; 2015-2016</small> </p>
+                }
+            </section>
+
+            @*<div>
+                    <section id="socialLoginForm">
+                        @Html.Partial("_ExternalLoginsListPartial", new ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })
+                    </section>
+                </div>*@
+
+        </div>
+    </div>
+
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+
+
+</body>
+</html>

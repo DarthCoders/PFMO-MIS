@@ -1,0 +1,79 @@
+﻿@model PFMO.Entities.SupplyCategory
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-sm-4">
+        <h2>Details</h2>
+        <ol class="breadcrumb">
+            <li>
+                <a href="#">Panel</a>
+            </li>
+            <li>
+                <a href="#">Categories</a>
+            </li>
+            <li>
+                @Html.ActionLink("List", "Index")
+            </li>
+            <li class="active">
+                <strong>Details</strong>
+            </li>
+        </ol>
+    </div>
+</div>
+
+
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox float-e-margins">
+                <div class="ibox-title">
+                    <h5>Supply Category Details</h5>
+                </div>
+                <div class="ibox-content">
+
+
+		<dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SupplyCategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SupplyCategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SupplyCategoryDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SupplyCategoryDescription)
+        </dd>
+
+    </dl>
+
+
+	    @Html.ActionLink("Edit", "Edit", new { id = Model.SupplyCategoryID }, new { @class = "btn btn-primary"})
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-white"})
+
+                </div>
+            </div>
+        </div>
+    </div>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+

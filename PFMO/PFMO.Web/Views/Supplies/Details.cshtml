@@ -1,0 +1,156 @@
+﻿@model PFMO.Entities.Supply
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-sm-4">
+        <h2>Details</h2>
+        <ol class="breadcrumb">
+            <li>
+                <a href="#">Home</a>
+            </li>
+            <li>
+                <a href="#">Panel</a>
+            </li>
+            <li>
+                <a href="#">Supplies</a>
+            </li>
+            <li>
+                @Html.ActionLink("List", "Index")
+            </li>
+            <li class="active">
+                <strong>Details</strong>
+            </li>
+        </ol>
+    </div>
+</div>
+
+
+
+
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox float-e-margins">
+                <div class="ibox-title">
+                    <h5>Supply Details</h5>
+                </div>
+                <div class="ibox-content">
+
+
+				    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Project.ProjectName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Project.ProjectName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SupplyCategory.SupplyCategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SupplyCategory.SupplyCategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SupplyCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SupplyCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SupplyName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SupplyName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SupplyRemarks)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SupplyRemarks)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SupplyStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SupplyStatus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SupplyBalance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SupplyBalance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SupplyUnit)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SupplyUnit)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SupplyReorderPoint)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SupplyReorderPoint)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Target)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Target)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SupplyExpiryDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SupplyExpiryDate)
+        </dd>
+
+    </dl>
+
+
+	    @Html.ActionLink("Edit", "Edit", new { id = Model.SupplyID }, new { @class = "btn btn-primary"})
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-white"})
+
+                </div>
+            </div>
+        </div>
+    </div>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+

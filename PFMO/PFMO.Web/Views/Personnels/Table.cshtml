@@ -1,0 +1,137 @@
+﻿@model IEnumerable<PFMO.Entities.Personnel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-sm-4">
+        <h2>Personnel</h2>
+        <ol class="breadcrumb">
+            <li>
+                <a href="#">Home</a>
+            </li>
+            <li>
+                <a href="#">Panel</a>
+            </li>
+            <li>
+                <a href="#">Personnel</a>
+            </li>
+            <li class="active">
+                <strong>List</strong>
+            </li>
+        </ol>
+    </div>
+</div>
+
+
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox float-e-margins">
+                <div class="ibox-title">
+                    <h5>List of Personnels</h5>
+                    <div class="ibox-tools">
+                        @Html.ActionLink("Change View", "Index", "Personnels", new { @class = "btn btn-primary btn-xs" })
+                        @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary btn-xs" })
+                    </div>
+                </div>
+                <div class="ibox-content">
+
+                    <input type="text" class="form-control input-sm m-b-xs" id="filter" placeholder="Search Personnel">
+                    <table class="footable table table-hover" data-filter=#filter data-page-size="5">
+
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.PersonnelDesignation.PersonnelDesignationName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.ProjectTeam.ProjectTeamName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Section.SectionName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.PersonnelLastName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.PersonnelFirstName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.PersonnelGender)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.PersonnelRemarks)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.PersonnelHireDate)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.PersonnelContactNumber)
+                                </th>
+                                <th></th>
+                            </tr>
+
+                        </thead>
+
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.PersonnelDesignation.PersonnelDesignationName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.ProjectTeam.ProjectTeamName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Section.SectionName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.PersonnelLastName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.PersonnelFirstName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.PersonnelGender)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.PersonnelRemarks)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.PersonnelHireDate)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.PersonnelContactNumber)
+                                    </td>
+                                    <td>
+                                        @Html.ActionLink("Details", "Details", new { id = item.PersonnelID }, new { @class = "btn btn-primary btn-sm" })
+                                        @Html.ActionLink("Edit", "Edit", new { id = item.PersonnelID }, new { @class = "btn btn-white btn-sm" })
+                                        @Html.ActionLink("Delete", "Delete", new { id = item.PersonnelID }, new { @class = "btn btn-white btn-sm" })
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+
+                        <tfoot>
+                            <tr>
+                                <td colspan="7">
+                                    <ul class="pagination pull-right"></ul>
+                                </td>
+                            </tr>
+                        </tfoot>
+
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,109 @@
+﻿@model IEnumerable<PFMO.Entities.Project>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-sm-4">
+        <h2>Projects</h2>
+        <ol class="breadcrumb">
+            <li>
+                <a href="#">Home</a>
+            </li>
+            <li>
+                <a href="#">Panel</a>
+            </li>
+            <li>
+                <a href="#">Projects</a>
+            </li>
+            <li class="active">
+                <strong>@Html.ActionLink("List", "Index")</strong>
+            </li>
+        </ol>
+    </div>
+</div>
+
+
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox float-e-margins">
+                <div class="ibox-title">
+                    <h5>List of Project</h5>
+					<div class="ibox-tools">
+						@Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary btn-xs"})
+					</div>
+                </div>
+                <div class="ibox-content">
+
+                    <input type="text" class="form-control input-sm m-b-xs" id="filter" placeholder="Search Project">
+                    <table class="footable table table-hover" data-filter=#filter data-page-size="5">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.ProjectName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.ProjectStatus)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.ProjectCompletion)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.ProjectStartDate)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.ProjectEndDate)
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                       
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.ProjectName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.ProjectStatus)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.ProjectCompletion)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.ProjectStartDate)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.ProjectEndDate)
+                                    </td>
+                                    <td>
+                                        @Html.ActionLink("Details", "Details", new { id = item.ProjectID }, new { @class = "btn btn-primary btn-sm" })
+                                        @Html.ActionLink("Edit", "Edit", new { id = item.ProjectID }, new { @class = "btn btn-white btn-sm" })
+                                        @Html.ActionLink("Delete", "Delete", new { id = item.ProjectID }, new { @class = "btn btn-white btn-sm" })
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+
+                        <tfoot>
+                            <tr>
+                                <td colspan="7">
+                                    <ul class="pagination pull-right"></ul>
+                                </td>
+                            </tr>
+                        </tfoot>
+
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </div>
+ </div>
+
+
+

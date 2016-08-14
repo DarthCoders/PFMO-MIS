@@ -1,0 +1,108 @@
+﻿@model PFMO.Entities.PersonnelTask
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-sm-4">
+        <h2>Details</h2>
+        <ol class="breadcrumb">
+            <li>
+                <a href="#">Home</a>
+            </li>
+            <li>
+                <a href="#">Panel</a>
+            </li>
+            <li>
+                <a href="#">Personnel Task</a>
+            </li>
+            <li>
+                @Html.ActionLink("List", "Index")
+            </li>
+            <li class="active">
+                <strong>Details</strong>
+            </li>
+        </ol>
+    </div>
+</div>
+
+
+
+
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox float-e-margins">
+                <div class="ibox-title">
+                    <h5>Personnel Task Details</h5>
+                </div>
+                <div class="ibox-content">
+
+
+				    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Personnel.PersonnelLastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Personnel.PersonnelLastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PersonnelTaskTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PersonnelTaskTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PersonnelTaskDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PersonnelTaskDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PersonnelTaskStartDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PersonnelTaskStartDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PersonnelTaskEndDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PersonnelTaskEndDate)
+        </dd>
+
+    </dl>
+
+
+	    @Html.ActionLink("Edit", "Edit", new { id = Model.PersonnelTaskID }, new { @class = "btn btn-primary"})
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-white"})
+
+                </div>
+            </div>
+        </div>
+    </div>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+

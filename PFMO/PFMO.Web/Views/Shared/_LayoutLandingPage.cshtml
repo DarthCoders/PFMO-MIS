@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<!--#region HTML-->
+<html lang="en">
+
+<!--#region HTML HEAD-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Icon -->
+    <link rel="icon" href="~/Content/favicon.png">
+
+    <title>Physical Facilities Management Office</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="~/Content/LandingPage/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Animation CSS -->
+    <link href="~/Content/LandingPage/css/animate.min.css" rel="stylesheet">
+
+    <link href="~/Content/LandingPage/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Custom styles for this template -->
+    <link href="~/Content/LandingPage/css/style.css" rel="stylesheet">
+</head>
+<!--#endregion -->
+
+<!--#region HTML BODY-->
+<body id="page-top">
+
+    @RenderBody()
+    
+    <!--#region TOP NAVBAR-->
+    @Html.Partial("_LandingPageTopNavBar")
+    <!--#endregion -->
+
+
+    <!--#region CAROUSEL-->
+    @Html.Partial("_LandingPageCarousel")
+    <!--#endregion -->
+
+
+    <!--#region SERVICES-->
+    @Html.Partial("_LandingPageServices")
+    <!--#endregion -->
+
+
+    <!--#region FEATURES-->
+    @Html.Partial("_LandingPageFeatures")
+    <!--#endregion -->
+
+
+    <!--#region TEAM-->
+    @Html.Partial("_LandingPageTeam")
+    <!--#endregion -->
+
+
+    @*<!--#region EVEN MORE FEATURES-->
+    @Html.Partial("_LandingPageEvenMoreFeatures")
+    <!--#endregion -->*@
+
+
+    @*<!--#region TIMELINE-->
+    @Html.Partial("_LandingPageTimeline")
+    <!--#endregion -->*@
+
+
+    <!--#region TESTIMONIALS-->
+    @Html.Partial("_LandingPageTestimonials")
+    <!--#endregion -->
+
+
+    <!--#region COMMENTS-->
+    @Html.Partial("_LandingPageComments") 
+    <!--#endregion -->
+
+
+    <!--#region MORE AND MORE GREATER FEATURES-->
+    @Html.Partial("_LandingPageMore&MoreGreaterFeatures") 
+    <!--#endregion -->
+
+
+    @*<!--#region PRICING-->
+    @Html.Partial("_LandingPagePricing") 
+    <!--#endregion -->*@
+
+
+    <!--#region CONTACT-->
+    @Html.Partial("_LandingPageContact") 
+    <!--#endregion-->
+
+    <script src="~/Content/LandingPage/js/jquery-2.1.1.js"></script>
+    <script src="~/Content/LandingPage/js/pace.min.js"></script>
+    <script src="~/Content/LandingPage/js/bootstrap.min.js"></script>
+    <script src="~/Content/LandingPage/js/classie.js"></script>
+    <script src="~/Content/LandingPage/js/cbpAnimatedHeader.js"></script>
+    <script src="~/Content/LandingPage/js/wow.min.js"></script>
+    <script src="~/Content/LandingPage/js/inspinia.js"></script>
+
+</body>
+<!--#endregion -->
+
+</html>
+<!--#endregion -->

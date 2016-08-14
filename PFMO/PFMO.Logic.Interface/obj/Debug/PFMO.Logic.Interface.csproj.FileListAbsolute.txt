@@ -1,0 +1,32 @@
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\PFMO.Logic.Interface.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\PFMO.Logic.Interface.pdb
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\PFMO.Entities.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\PFMO.Entities.pdb
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Logic.Interface\obj\Debug\PFMO.Logic.Interface.csprojResolveAssemblyReference.cache
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Logic.Interface\obj\Debug\PFMO.Logic.Interface.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Logic.Interface\obj\Debug\PFMO.Logic.Interface.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\PFMO.Logic.Interface.dll.config
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\EntityFramework.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\EntityFramework.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Logic.Interface\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\PFMO.Logic.Interface.dll.config
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\PFMO.Logic.Interface.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\PFMO.Logic.Interface.pdb
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\EntityFramework.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\EntityFramework.SqlServer.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\PFMO.Entities.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\PFMO.Entities.pdb
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\EntityFramework.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\EntityFramework.SqlServer.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\obj\Debug\PFMO.Logic.Interface.csprojResolveAssemblyReference.cache
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\obj\Debug\PFMO.Logic.Interface.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Logic.Interface\obj\Debug\PFMO.Logic.Interface.pdb

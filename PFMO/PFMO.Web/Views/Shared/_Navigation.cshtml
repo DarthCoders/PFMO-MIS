@@ -1,0 +1,171 @@
+﻿@using Microsoft.AspNet.Identity
+
+<nav class="navbar-default navbar-static-side" role="navigation">
+    <div class="sidebar-collapse">
+        <ul class="nav metismenu" id="side-menu">
+            <li class="nav-header">
+                <div class="dropdown profile-element">
+                    <span>
+                        <img alt="image" class="img-circle" src="~/Content/user.png" />
+                    </span>
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                        <span class="clear">
+                            <span class="block m-t-xs">
+                                <strong class="font-bold">@(ViewData["FullName"])</strong>
+                            </span> <span class="text-muted text-xs block">Dashboard<b class="caret"></b></span>
+                        </span>
+                    </a>
+                    <ul class="dropdown-menu animated fadeInRight m-t-xs">
+                        <li><a href="@Url.Action("Index", "Desktop")">Desktop</a></li>
+                        <li class="divider"></li>
+                        <li><a href="@Url.Action("Index", "Pinboards")">Pinboard</a></li>
+                        <li class="divider"></li>
+                        <li><a href="@Url.Action("Index", "Contacts")">Contacts</a></li>
+                        <li class="divider"></li>
+                        <li><a href="@Url.Action("Index", "Calendar")">Calendar</a></li>
+                    </ul>
+                </div>
+                <div class="logo-element">
+                    PM
+                </div>
+            </li>
+
+            @*HUMAN RESOURCES MANAGEMENT*@
+            <li>
+                <a href="#"><i class="fa fa-sitemap"></i> <span class="nav-label">Human Resources </span><span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level collapse">
+
+                    <li>
+                        <a href="@Url.Action("Index", "Sections")">Manage Sections</a>
+                    </li>
+
+                    <li>
+                        <a href="@Url.Action("Index", "SectionHeads")">Manage Heads</a>
+                    </li>
+
+                    <li>
+                        <a href="@Url.Action("Index", "Personnels")">Manage Personnels</a>
+                    </li>
+
+                    <li>
+                        <a href="#">Manage Designations <span class="fa arrow"></span></a>
+                        <ul class="nav nav-third-level">
+                            <li>
+                                <a href="@Url.Action("Index", "SectionHeadDesignations")">Section Head</a>
+                            </li>
+                            <li>
+                                <a href="@Url.Action("Index", "PersonnelDesignations")">Personnel</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                </ul>
+            </li>
+
+            @*INVENTORY MANAGEMENT*@
+            <li>
+                <a href="#"><i class="fa fa-shopping-cart"></i> <span class="nav-label">Inventory </span><span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level collapse">
+
+                    <li>
+                        <a href="#">Manage Categories <span class="fa arrow"></span></a>
+                        <ul class="nav nav-third-level">
+                            <li>
+                                <a href="@Url.Action("Index", "EquipmentCategories")">Equipment Categories</a>
+                            </li>
+                            <li>
+                                <a href="@Url.Action("Index", "SupplyCategories")">Supply Categories</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("Index", "Equipments")">Manage Equipments</a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("Index", "Supplies")">Manage Supplies</a>
+                    </li>
+                </ul>
+            </li>
+
+            @*PROJECT MANAGEMENT*@
+            <li>
+                <a href="#"><i class="fa fa-pie-chart"></i> <span class="nav-label">Projects </span><span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level collapse">
+                    <li>
+                        <a href="@Url.Action("Index", "ProjectTeams")">Manage Teams</a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("Index", "Projects")">Manage Projects</a>
+                    </li>
+                    @*<li>
+                        <a href="#">Manage Transactions <span class="fa arrow"></span></a>
+                        <ul class="nav nav-third-level">
+                            <li>
+                                <a href="">Issue Supply</a>
+                            </li>
+                            <li>
+                                <a href="#">Lend Supply</a>
+                            </li>
+                        </ul>
+                    </li>*@
+                </ul>
+            </li>
+
+            @*TASKS MANAGEMENT*@
+            <li>
+                <a href="#"><i class="fa fa-bell"></i> <span class="nav-label">Task Assignments </span><span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level collapse">
+                    <li>
+                        <a href="@Url.Action("Index", "SectionTasks")">Section Tasks</a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("Index", "PersonnelTasks")">Personnel Tasks</a>
+                    </li>
+                </ul>
+            </li>
+
+            @*RECORDS MANAGEMENT*@
+            <li>
+                <a href="#"><i class="fa fa-folder-open"></i> <span class="nav-label">Records </span><span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level collapse">
+                    <li>
+                        <a href="#">Manage Reports</a>
+                    </li>
+                    <li>
+                        <a href="#">Manage Files</a>
+                    </li>
+                </ul>
+            </li>
+
+            @*USER ACCOUNTS*@
+            <li>
+                <a href="#"><i class="fa fa-users"></i> <span class="nav-label">Accounts </span><span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level collapse">
+                    <li>
+                        <a href="#">Manage User Roles</a>
+                    </li>
+                    @*<li>
+                        <a href="#">Manage Roles</a>
+                    </li>*@
+                </ul>
+            </li>
+
+            @*SUPPORT*@
+            <li class="special_link">
+                <a target="_blank" href="@Url.Action("Index", "Home")"><i class="fa fa-space-shuttle"></i> <span class="nav-label">Take a Tour!</span> <span class="label label-warning pull-right">START</span></a>
+            </li>
+            <li class="special_link">
+                <a target="_blank" href="#"><i class="fa fa-pencil-square-o"></i> <span class="nav-label">Alerts</span></a>
+            </li>
+            <li>
+                <a href="#"><i class="fa fa-file-text"></i> <span class="nav-label">Manual</span></a>
+            </li>
+            <li>
+                <a target="_blank" href="#"><i class="fa fa-star"></i> <span class="nav-label">Developers</span></a>
+            </li>
+            <li>
+                <a href="#"><i class="fa fa-question-circle"></i> <span class="nav-label">About</span></a>
+            </li>
+        </ul>
+    </div>
+</nav>

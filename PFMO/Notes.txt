@@ -1,0 +1,11 @@
+  <connectionStrings>
+    <add name="DefaultConnection" connectionString="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-PFMO.Web-20160301010916.mdf;Initial Catalog=aspnet-PFMO.Web-20160301010916;Integrated Security=True" providerName="System.Data.SqlClient" />
+  </connectionStrings>
+
+
+
+Add-Migration -ConfigurationTypeName PFMO.Web.Migrations.Identity_Migrations.Configuration ""
+Update-Database -ConfigurationTypeName PFMO.Web.Migrations.Identity_Migrations.Configuration
+
+Add-Migration -ConfigurationTypeName PFMO.Web.Migrations.PFMO_Migrations.Configuration ""
+Update-Database -ConfigurationTypeName PFMO.Web.Migrations.PFMO_Migrations.Configuration

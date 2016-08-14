@@ -1,0 +1,109 @@
+﻿@model IEnumerable<PFMO.Entities.SectionTask>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-sm-4">
+        <h2>Index</h2>
+        <ol class="breadcrumb">
+            <li>
+                <a href="#">Home</a>
+            </li>
+            <li>
+                <a href="#">Panel</a>
+            </li>
+            <li>
+                <a href="#">Section Task</a>
+            </li>
+            <li class="active">
+                <strong>List</strong>
+            </li>
+        </ol>
+    </div>
+</div>
+
+
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox float-e-margins">
+                <div class="ibox-title">
+                    <h5>List of Section Tasks</h5>
+                    <div class="ibox-tools">
+                        @Html.ActionLink("Change View", "Index", "SectionTasks", new { @class = "btn btn-primary btn-xs" })
+                        @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary btn-xs" })
+                    </div>
+                </div>
+                <div class="ibox-content">
+
+                    <input type="text" class="form-control input-sm m-b-xs" id="filter" placeholder="Search Personnel Task">
+                    <table class="footable table table-hover" data-filter=#filter data-page-size="5">
+
+
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Section.SectionName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.SectionTaskTitle)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.SectionTaskDescription)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.SectionTaskStartDate)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.SectionTaskEndDate)
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Section.SectionName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.SectionTaskTitle)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.SectionTaskDescription)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.SectionTaskStartDate)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.SectionTaskEndDate)
+                                    </td>
+                                    <td>
+                                        @Html.ActionLink("Details", "Details", new { id = item.SectionTaskID }, new { @class = "btn btn-primary btn-sm" })
+                                        @Html.ActionLink("Edit", "Edit", new { id = item.SectionTaskID }, new { @class = "btn btn-white btn-sm" })
+                                        @Html.ActionLink("Delete", "Delete", new { id = item.SectionTaskID }, new { @class = "btn btn-white btn-sm" })
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+
+                        <tfoot>
+                            <tr>
+                                <td colspan="7">
+                                    <ul class="pagination pull-right"></ul>
+                                </td>
+                            </tr>
+                        </tfoot>
+
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<PFMO.Entities.PersonnelTask>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-sm-4">
+        <h2>Index</h2>
+        <ol class="breadcrumb">
+            <li>
+                <a href="#">Home</a>
+            </li>
+            <li>
+                <a href="#">Panel</a>
+            </li>
+            <li>
+                <a href="#">Personnel Task</a>
+            </li>
+            <li class="active">
+                <strong>List</strong>
+            </li>
+        </ol>
+    </div>
+</div>
+
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="ibox float-e-margins">
+            <div class="ibox-title">
+                <h5>List of Personnel Tasks</h5>
+                <div class="ibox-tools">
+                    @Html.ActionLink("Change View", "Table", "PersonnelTasks", new { @class = "btn btn-primary btn-xs" })
+                    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary btn-xs" })
+                </div>
+            </div>
+        </div>
+        @foreach (var item in Model)
+            {
+            <div class="col-lg-3">
+                <div class="contact-box center-version">
+
+                    <a href="#">
+
+                        <img alt="image" class="img-circle" src="~/Content/img/Task.png">
+
+                        <h3 class="m-b-xs"><strong>@Html.DisplayFor(modelItem => item.PersonnelTaskTitle)</strong></h3>
+
+                        <div class="font-bold">@Html.DisplayFor(modelItem => item.PersonnelTaskDescription)</div>
+
+                    </a>
+
+                    <div class="contact-box-footer">
+                        <div class="m-t-xs btn-group">
+                            @Html.ActionLink("Details", "Details", new { id = item.PersonnelTaskID }, new { @class = "btn btn-xs btn-white" })
+                            @Html.ActionLink("Edit", "Edit", new { id = item.PersonnelTaskID }, new { @class = "btn btn-xs btn-white" })
+                            @Html.ActionLink("Delete", "Delete", new { id = item.PersonnelTaskID }, new { @class = "btn btn-xs btn-white" })
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

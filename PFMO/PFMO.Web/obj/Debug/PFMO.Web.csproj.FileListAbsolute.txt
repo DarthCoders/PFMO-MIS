@@ -1,0 +1,322 @@
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\ApplicationInsights.config
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\csc.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\csc.exe.config
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\csc.rsp
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\csi.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\csi.rsp
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\System.Console.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\vbc.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\vbc.exe.config
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\vbc.rsp
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\PFMO.Web.dll.config
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\PFMO.Web.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\PFMO.Web.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Antlr3.Runtime.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\EntityFramework.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Newtonsoft.Json.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Owin.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\PFMO.Contexts.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\PFMO.Entities.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.Helpers.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.Mvc.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.Optimization.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.Razor.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.WebPages.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\WebGrease.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\PFMO.Contexts.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\PFMO.Entities.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Newtonsoft.Json.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.Helpers.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.Mvc.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.Optimization.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.Razor.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.WebPages.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\EntityFramework.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.Identity_Migrations.InitialCreate.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.PFMO_Migrations.InitialCreate.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.pdb
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.PFMO_Migrations.EquipmentModelUpdate.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.PFMO_Migrations.AllModelUpdate.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.PFMO_Migrations.FinalModelUpdate.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.PFMO_Migrations.Models_Changed.resources
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.PFMO_Migrations.ContactDisplayUpdate.resources
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\PFMO.Logic.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\PFMO.Logic.Interface.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\PFMO.Logic.Interface.pdb
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\PFMO.Logic.pdb
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Charts.v15.2.Core.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Data.v15.2.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.DataAccess.v15.2.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Office.v15.2.Core.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.PivotGrid.v15.2.Core.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Printing.v15.2.Core.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Xpo.v15.2.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.XtraCharts.v15.2.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.XtraGauges.v15.2.Core.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.XtraReports.v15.2.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.CodeParser.v15.2.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Data.v15.2.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.DataAccess.v15.2.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Office.v15.2.Core.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.PivotGrid.v15.2.Core.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Printing.v15.2.Core.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Xpo.v15.2.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.XtraCharts.v15.2.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.XtraGauges.v15.2.Core.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.XtraReports.v15.2.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\Personnel_Report.resources
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\Supply_Report.resources
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.dll.licenses
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\Equipment_Report.resources
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\Project_Report.resources
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\Section_Report.resources
+C:\Users\Paul\documents\visual studio 2015\Projects\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.PFMO_Migrations.EquipmentExpiryDate.resources
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Utils.v15.2.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.XtraReports.v15.2.Service.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.Utils.v15.2.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\DevExpress.XtraReports.v15.2.Service.xml
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Paul\Documents\Visual Studio 2015\Projects\PFMO\PFMO.Web\bin\ru\DevExpress.Utils.v15.2.resources.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\obj\Debug\PFMO.Web.csprojResolveAssemblyReference.cache
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.Identity_Migrations.InitialCreate.resources
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.PFMO_Migrations.InitialCreate.resources
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.PFMO_Migrations.EquipmentModelUpdate.resources
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.PFMO_Migrations.AllModelUpdate.resources
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.PFMO_Migrations.FinalModelUpdate.resources
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\obj\Debug\PFMO.Web.Migrations.PFMO_Migrations.Models_Changed.resources
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\obj\Debug\PFMO.Web.csproj.GenerateResource.Cache
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\ApplicationInsights.config
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\csc.exe
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\csc.exe.config
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\csc.rsp
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\csi.exe
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\csi.rsp
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\System.AppContext.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\System.Console.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\vbc.exe
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\vbc.exe.config
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\vbc.rsp
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\VBCSCompiler.exe
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\PFMO.Web.dll.config
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\PFMO.Web.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\PFMO.Web.pdb
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Antlr3.Runtime.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\EntityFramework.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\EntityFramework.SqlServer.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AI.Web.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.ApplicationInsights.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.ReportViewer.Common.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Newtonsoft.Json.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Owin.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\PFMO.Contexts.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\PFMO.Entities.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\PFMO.Logic.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\PFMO.Logic.Interface.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.Helpers.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.Mvc.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.Optimization.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.Razor.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.WebPages.Deployment.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.WebPages.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.WebPages.Razor.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\WebGrease.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\PFMO.Contexts.pdb
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\PFMO.Entities.pdb
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\PFMO.Logic.Interface.pdb
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\PFMO.Logic.pdb
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Antlr3.Runtime.pdb
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AI.Web.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.ApplicationInsights.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Newtonsoft.Json.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.Helpers.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.Mvc.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.Optimization.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.Razor.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.WebPages.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.WebPages.Deployment.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\System.Web.WebPages.Razor.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\EntityFramework.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\EntityFramework.SqlServer.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\obj\Debug\PFMO.Web.dll
+D:\School Stuff\Physical Facilities Management Office Management Information System\PFMO\PFMO.Web\obj\Debug\PFMO.Web.pdb

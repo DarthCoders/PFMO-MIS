@@ -1,0 +1,16 @@
+﻿@Html.DevExpress().DocumentViewer(settings =>
+{
+    // The following settings are required for a Report Viewer.
+    settings.Name = "documentViewer1";
+    // Callback and export route values specify corresponding controllers and their actions.
+    // These settings are required as well.
+    settings.CallbackRouteValues = new { Controller = "Home", Action = "DocumentViewerPartial" };
+    settings.ExportRouteValues = new { Controller = "Home", Action = "ExportDocumentViewer" };
+
+    // Specify the report service URI and the name of the report to display.
+    settings.SetRemoteSourceSettings(s =>
+    {
+        s.ServiceUri = @"http://localhost:53813//ReportService1.svc";
+        s.ReportTypeName = "WebApplication1.XtraReport1, WebApplication1";
+    });
+}).GetHtml()

@@ -1,0 +1,132 @@
+﻿@model PFMO.Entities.SectionHead
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row wrapper border-bottom white-bg page-heading">
+    <div class="col-sm-4">
+        <h2>Section Head Details</h2>
+        <ol class="breadcrumb">
+            <li>
+                <a href="#">Home</a>
+            </li>
+            <li>
+                <a href="#">Panel</a>
+            </li>
+            <li>
+                <a href="#">Section Heads</a>
+            </li>
+            <li>
+                @Html.ActionLink("List", "Index")
+            </li>
+            <li class="active">
+                <strong>Details</strong>
+            </li>
+        </ol>
+    </div>
+</div>
+
+
+
+
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox float-e-margins">
+                <div class="ibox-title">
+                    <h5>Section Head Details</h5>
+                </div>
+                <div class="ibox-content">
+
+
+				    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Section.SectionName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Section.SectionName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SectionHeadDesignation.SectionHeadDesignationName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SectionHeadDesignation.SectionHeadDesignationName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SectionHeadLastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SectionHeadLastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SectionHeadFirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SectionHeadFirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SectionHeadGender)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SectionHeadGender)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SectionHeadRemarks)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SectionHeadRemarks)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SectionHeadHireDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SectionHeadHireDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SectionHeadContactNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SectionHeadContactNumber)
+        </dd>
+
+    </dl>
+
+
+	    @Html.ActionLink("Edit", "Edit", new { id = Model.SectionHeadID }, new { @class = "btn btn-primary"})
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-white"})
+
+                </div>
+            </div>
+        </div>
+    </div>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
